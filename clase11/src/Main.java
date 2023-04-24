@@ -1,4 +1,4 @@
-class Plater {
+class Player {
     private int number;
     private String name;
     private String position;
